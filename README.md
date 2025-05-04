@@ -8,3 +8,4 @@ Cursor の AI Agent 機能を用いてテトリスを実装しました。
 
 index.html をブラウザ上で展開
 （Chrome で起動確認）
+![image](https://github.com/user-attachments/assets/0d145ad6-5797-437c-bb6d-c661c04f9797)
